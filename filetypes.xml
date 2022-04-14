@@ -5,7 +5,9 @@
       <mapping pattern="12" type="Image" />
       <mapping ext="ipg" type="Image" />
       <mapping pattern="Txt" type="PLAIN_TEXT" />
+      <mapping pattern="15" type="PLAIN_TEXT" />
       <mapping ext="srt" type="PLAIN_TEXT" />
+      <mapping pattern="14" type="XHTML" />
       <mapping ext="webp" type="XHTML" />
     </extensionMap>
   </component>
